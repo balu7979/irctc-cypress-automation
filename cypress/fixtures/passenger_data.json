@@ -1,25 +1,25 @@
 {
-  "TRAIN_NO": "18519",
+  "TRAIN_NO": "12727",
   "TRAIN_COACH": "SL",
-  "TRAVEL_DATE": "13/06/2024",
-  "SOURCE_STATION": "BZA",
+  "TRAVEL_DATE": "14/06/2024",
+  "SOURCE_STATION": "TDD",
   "BOARDING_STATION": null,
-  "DESTINATION_STATION": "MMCT",
+  "DESTINATION_STATION": "SC",
   "TATKAL": true,
   "PREMIUM_TATKAL": false,
   "UPI_ID_CONFIG": "9553817254@ybl",
   "PASSENGER_DETAILS": [
     {
-      "NAME": "Shivam Pandey",
-      "AGE": 26,
+      "NAME": "G Balu",
+      "AGE": 30,
       "GENDER": "Male",
       "SEAT": "No Preference",
       "FOOD": "No Food"
     },
     {
-      "NAME": "Shivam Dubey",
-      "AGE": 26,
-      "GENDER": "Female",
+      "NAME": "Mani Kanta",
+      "AGE": 28,
+      "GENDER": "Male",
       "SEAT": "No Preference",
       "FOOD": "No Food"
     }
